@@ -30,6 +30,8 @@ I hope to improve already very stale education system, for more details feel fre
 
 ## 🏆 What i worked on in the past
 
-https://shop.mobileminigames.com/
-https://app.cielo.finance/
-https://radquest.io/
+https://shop.mobileminigames.com/ - Team lead
+
+https://app.cielo.finance/ - Mid/Senior frontend dev
+
+https://radquest.io/ - Senior full stack dev
