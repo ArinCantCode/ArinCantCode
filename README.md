@@ -24,7 +24,7 @@ I possess extensive experience in back-end development, including:
 
 ## ⚒️ What I'm Working On
 
-I'm currently working on WeLearnin.com as a side project, it's a gamified platform for schools to ease life of both teachers and students writted in Sveltekit.
+I'm currently working on WeLearnin.com as a side project, it's a gamified platform for schools to ease life of both teachers and students written in Sveltekit.
 
 I hope to improve already very stale education system, for more details feel free to contact me on linkedin 
 
