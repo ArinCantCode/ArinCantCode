@@ -70,7 +70,7 @@ Added support for PayPal, BTC, and ETH donations, alert features, payment widget
 
 **Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppetee
 
-### 💱 DubiEx – Mid Developer
+### 💱 [DubiEx](https://www.dubiex.com/PRPS/USDC) – Mid Developer
 
 Maintained a decentralized exchange on Ethereum.
 
