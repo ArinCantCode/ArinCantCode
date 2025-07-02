@@ -10,7 +10,7 @@ Good design looks simple, and a good product is easy to explain.
 
 Striving to leave a mark of my existence on the world's canvas like Bob Ross.
 
-### 🧠 Here is some info about my skills:
+Here is some info about my skills:
 
 ⛓ Blockchain Knowledge
 
@@ -74,7 +74,7 @@ Added support for PayPal, BTC, and ETH donations, alert features, payment widget
 
 Maintained a decentralized exchange on Ethereum.
 
-Stack: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
+**Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
 
 ### 🛒 MobileMinigames Web3 Store – Team Lead
 
