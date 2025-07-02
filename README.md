@@ -10,7 +10,7 @@ Good design looks simple, and a good product is easy to explain.
 
 Striving to leave a mark of my existence on the world's canvas like Bob Ross.
 
-Here is some info about my skills:
+### 🧠 Here is some info about my skills:
 
 ⛓ Blockchain Knowledge
 
