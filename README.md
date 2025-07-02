@@ -76,7 +76,7 @@ Maintained a decentralized exchange on Ethereum.
 
 **Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
 
-### 🛒 MobileMinigames Web3 Store – Team Lead
+### 🛒 [MobileMinigames Web3 Store](https://shop.mobileminigames.com/) – Team Lead
 
 Integrated Ethereum smart contracts to build a Web3 store for a mobile game.
 The flow included wallet signing, cart logic, transaction submission, and feedback handling.
@@ -91,7 +91,7 @@ These tools streamlined DevOps workflows with automatic PR creation, card update
 **Stack**: TypeScript, MongoDB, Elasticsearch, AWS, Express.js, Git, Trello, GitLab & GitHub APIs, Jest
 
 
-### 👁️ Cielo Finance – Mid/Senior Frontend Developer
+### 👁️ [Cielo Finance](https://app.cielo.finance/feed) – Mid/Senior Frontend Developer
 
 Joined as a senior developer to build new features on the existing platform.
 After a pivot, we rebuilt the platform from scratch and turned it into one of the top wallet-alert apps.
@@ -112,14 +112,14 @@ I was involved in architecture, code standards, and product strategy, and I led 
 **Stack**: React, Next.js, APIs, WalletConnect, XState, styled-components, TypeScript, Tailwind CSS, Storybook, Docker
 
 
-### 🔍 Cielo Chrome Extension
+### 🔍 [Cielo Chrome Extension](https://chromewebstore.google.com/detail/cielo/nbmknhhenedcdaodehlbpfanpmgkjaeg?hl=en)
 
 Built an extension that injects a button into web pages, allowing users to quickly add wallets to their watchlists.
 
 **Stack**: TypeScript, Puppeteer
 
 
-### 🚀 RadQuest – Senior Full-Stack Developer
+### 🚀 [RadQuest](https://radquest.io/home/basic) – Senior Full-Stack Developer
 
 Contributed to a gamified onboarding experience for the Radix ecosystem.
 Delivered onboarding quests that integrated directly with the blockchain.
@@ -127,7 +127,7 @@ Worked on both frontend and backend, including component development and backend
 
 **Stack**: TypeScript, Redis, AWS, Radix, SvelteKit, Docker, SCSS, WebSockets, APIs, Jest, PostgreSQL
 
-### 💎 ShardSpace – Senior Full-Stack Developer
+### 💎 [ShardSpace](https://launch.shardspace.app/) – Senior Full-Stack Developer
 
 Integrated multiple dApps into ShardSpace.
 Users can manage liquidity, purchase Radix domains, list NFTs, stake, and swap assets.
