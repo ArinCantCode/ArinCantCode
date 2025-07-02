@@ -1,137 +1,142 @@
 # 👋 Hi, I’m @ArinCantCode
 
 ## 📓 About Me
-I'm fullstack JS dev specializing in web3 and consumer facing web apps
-I have almost a decade of experience in software development, combined with crypto degen experience.
+I'm a full-stack JavaScript developer specializing in Web3 and consumer-facing web apps.
+I have nearly a decade of experience in software development, combined with crypto degen experience.
 
-I like focusing on user facing web apps that cherrish uniqness and creativity in design. 
-I have pretty good feel for interconnecting business systems with software architecture and design, 
-good design is simple looking and a good product is simple to explain.    
+I focus on user-facing applications that value uniqueness and creativity in design.
+I have a good sense for connecting business logic with software architecture and design.
+Good design looks simple, and a good product is easy to explain.
 
-Striving to leave a mark of my existance on the worlds canvas like Bob Ross 
+Striving to leave a mark of my existence on the world's canvas like Bob Ross.
 
 Here is some info about my skills:
 
-## ⛓ Blockchain Knowledge
-My expertise spans across multiple blockchain technologies and tools:
-- **Languages**: Solidity, Scrypto
-- **Libraries and Frameworks**: Viem, Ether.js, Web3.js, Wagmi
-- **Development Tools**: Hardhat, Truffle
+⛓ Blockchain Knowledge
 
-## 🖥️ Solid Front-end Knowledge
-I have a strong background in front-end development, with proficiency in:
-- **Languages**: Javascript, Typescript, HTML, CSS
-- **Frameworks and Libraries**: Next.js, React.js, Sveltekit, WS
-- **Styling Tools**: Tailwind, sass, styled-components, Bootstrap
+My experience spans multiple blockchain technologies and tools:
 
-## 🌐 Back-end Knowledge
-I possess extensive experience in back-end development, including:
-- **Frameworks**: express.js
-- **Databases and ORM**: PostgreSQL, Redis, MongoDB, SQL, MySQL
-- **Cloud and Hosting**: AWS
+    Languages: Solidity, Scrypto
 
-## ⚒️ What I'm Working On
+    Libraries and Frameworks: Viem, Ethers.js, Web3.js, Wagmi
 
-I'm currently working on WeLearnin.com as a side project, it's a gamified platform for schools to ease life of both teachers and students written in Sveltekit.
+    Development Tools: Hardhat, Truffle
 
-I hope to improve already very stale education system, for more details feel free to contact me on linkedin  https://www.linkedin.com/in/marcin-moldrzyk-332505214/
+🖥️ Front-end Knowledge
 
+I have a solid background in front-end development, including:
 
+    Languages: JavaScript, TypeScript, HTML, CSS
 
-# 🏆 Some of my past work:
+    Frameworks and Libraries: Next.js, React.js, SvelteKit
 
-## VsCode extension
+    Styling Tools: Tailwind, Sass, styled-components, Bootstrap
 
-First project i ever attempted to code, made a simple vscode extension to find unused entitas components for a game dev framework for inhouse operations 
+    Other: WebSockets
 
-### Stack:
+    
+🌐 Back-end Knowledge
 
-Javascript, VSCode api
+I also have extensive experience on the back end:
 
+    Frameworks: Express.js
 
-## Gaming for good - Developer
+    Databases: PostgreSQL, Redis, MongoDB, MySQL, SQL
 
-Maintained donation platform codebase for streamers (mostly twitch) and expanded features to paypal, btc and eth donations, alert features, payment widgets,
-microservices for alerts processing.
+    Cloud and Hosting: AWS
 
-### Stack
+    
+⚒️ What I'm Working On
 
-Typescript, Redux, React, JQuery, SQL, CSS, styled-components, Websockets, APIs, express.js, MongoDB, handlebars, jest, puppeteer
+I'm currently working on WeLearnin.com as a side project.
+It’s a gamified platform for schools to improve the experience of both teachers and students, built with SvelteKit.
+
+I hope to contribute to improving the outdated education system.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marcin-moldrzyk-332505214/) if you'd like to know more.
 
 
-## DubiEx - Mid Developer
+# 🏆 My past work:
 
-Maintained decentralized exchange on ethereum,  
+🧩 VSCode Extension
 
-### Stack
+My first ever coding project. I created a simple VSCode extension to find unused Entitas components in a game dev framework used for in-house operations.
 
-Typescript, Redux, React, JQuery, SQL, CSS, styled-components, Websockets, APIs, express.js, MongoDB, handlebars, jest, puppeteer
+Stack: JavaScript, VSCode API
 
+🎮 Gaming for Good – Developer
 
-## https://shop.mobileminigames.com/ - Team lead
+Maintained the codebase for a donation platform for streamers (mainly on Twitch).
+Added support for PayPal, BTC, and ETH donations, alert features, payment widgets, and microservices for alert processing.
 
-Integrated eth smart contracts to create web3 store for a mobile game integrated with blockchain, 
-it has a full checkout flow from signing a wallet, adding items into a cart, signing transactions and getting receiving feedback.
+Stack: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppetee
 
-### Stack
+💱 DubiEx – Mid Developer
 
-Ethers, GraphQL, Styled-components, CSS, Storybook, Typescript, React, Relay, Jest, Golang, Docker, AWS
+Maintained a decentralized exchange on Ethereum.
 
+Stack: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
 
-## Automation tools - Related to Gaming for good and Mobile minigames
+🛒 MobileMinigames Web3 Store – Team Lead
 
-I have build automation for trello - gitlab - git - elasticsearch - github integrations for in house processes, using trello api, webhooks and hooks to streamline dev ops experience.
-Alerts, Automatic PR creation, cards moving assinging and reminders for both devs and QA helped streamline and speed up development process. 
+Integrated Ethereum smart contracts to build a Web3 store for a mobile game.
+The flow included wallet signing, cart logic, transaction submission, and feedback handling.
 
-### Stack
+Stack: Ethers.js, GraphQL, styled-components, CSS, Storybook, TypeScript, React, Relay, Jest, Golang, Docker, AWS
 
-Typescript, MongoDB, Elasticsearch, AWS, express.js, git, Trello, Gitlab and Github APIs, jest, MongoDB   
+⚙️ Automation Tools
 
+Built automation systems integrating Trello, GitLab, Git, and Elasticsearch via APIs and webhooks.
+These tools streamlined DevOps workflows with automatic PR creation, card updates, and alerts for developers and QA.
 
-## https://app.cielo.finance/ - Mid/Senior frontend dev
-
-Joined as a mid/senior developer to build out new features on already existing platform, but soon after we pivoted and rebuilt the platform from ground up by both product and tech needs. 
-We elevated the app from niche product that couple of users check to one of the industry leading wallet alert platforms. I have been heavily involved in the architecture choices, code standards, reviews 
-and picking the stack. I have gained a lot of experience in product strategy, processes and UX/UI design. 
-I have personally lead builing of following features: NFT wallet discovery, new user onboarding, wallet discovery page, component library, live feed with advanced filtering as well as performance improvemts. 
-
-### Stack
-
-React, NextJS, APIs, wallet connect, xstate, styled-components, typescript, tailwindcss, Storybook, Docker
+Stack: TypeScript, MongoDB, Elasticsearch, AWS, Express.js, Git, Trello, GitLab & GitHub APIs, Jest
 
 
-## Cielo Chrome extension - https://tinyurl.com/cielo-extension
+👁️ Cielo Finance – Mid/Senior Frontend Developer
 
-I Built extension to crawl into a web page and insert button that would allow users to quickly add wallet to their watch list.
+Joined as a senior developer to build new features on the existing platform.
+After a pivot, we rebuilt the platform from scratch and turned it into one of the top wallet-alert apps.
+I was involved in architecture, code standards, and product strategy, and I led several key features including:
 
-### Stack
+    NFT wallet discovery
 
-typescript, pupeteer
+    New user onboarding
 
+    Wallet discovery page
 
-## https://radquest.io/ - Senior full stack dev
+    Component library
 
-Joined to help deliver crypto gamified onboarding into radix ecosystem, contributed by owning individual onboarding quests integrating it directly with blockchain.
-This included both frontend and backend work from, creating components in component library, microservices processing job queues for rewards, testing and adding the quest to the whole flow. 
+    Live feed with advanced filtering
 
-### Stack
+    Performance improvements
 
-Typescript, Redis, AWS, Radix, Sveltekit, Docker, SCSS, Websockets, APIs, jest, Postrgress
-
-
-## https://launch.shardspace.app/ - Senior full stack dev
-
-Intergrated numerous dapps into shardspace allowing users to add/remove liquidity to various types of pools, purchase radix domains and manage them, list nfts, stake and swap. 
-Improved the general stability of the platform as well as increased performance.  
-
-### Stack
-
-Typescript, Zod, Sveltekit, Radix, tailwindcss, APIs, Postgress
+Stack: React, Next.js, APIs, WalletConnect, XState, styled-components, TypeScript, Tailwind CSS, Storybook, Docker
 
 
-## WeLearnin
+🔍 Cielo Chrome Extension
 
-TBD
+Built an extension that injects a button into web pages, allowing users to quickly add wallets to their watchlists.
 
----
+Stack: TypeScript, Puppeteer
+
+
+🚀 RadQuest – Senior Full-Stack Developer
+
+Contributed to a gamified onboarding experience for the Radix ecosystem.
+Delivered onboarding quests that integrated directly with the blockchain.
+Worked on both frontend and backend, including component development and backend microservices for rewards.
+
+Stack: TypeScript, Redis, AWS, Radix, SvelteKit, Docker, SCSS, WebSockets, APIs, Jest, PostgreSQL
+
+💎 ShardSpace Launchpad – Senior Full-Stack Developer
+
+Integrated multiple dApps into ShardSpace.
+Users can manage liquidity, purchase Radix domains, list NFTs, stake, and swap assets.
+Improved overall platform stability and performance.
+
+Stack: TypeScript, Zod, SvelteKit, Radix, Tailwind CSS, APIs, PostgreSQL
+
+
+📚 WeLearnin
+
+In progress. More soon.
 
