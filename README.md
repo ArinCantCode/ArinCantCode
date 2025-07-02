@@ -68,13 +68,13 @@ My first ever coding project. I created a simple VSCode extension to find unused
 Maintained the codebase for a donation platform for streamers (mainly on Twitch).
 Added support for PayPal, BTC, and ETH donations, alert features, payment widgets, and microservices for alert processing.
 
-**Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppetee
+**Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
 
 ### 💱 [DubiEx](https://www.dubiex.com/PRPS/USDC) – Mid Developer
 
-Maintained a decentralized exchange on Ethereum.
+Maintained a decentralized exchange on Ethereum and led development of nft auction house
 
-**Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
+**Stack**: TypeScript, React, MobX, Kubernetes, SQL, CSS, styled-components, WebSockets, APIs, GraphQL, ethers.js, web3js, wallet-connect
 
 ### 🛒 [MobileMinigames Web3 Store](https://shop.mobileminigames.com/) – Team Lead
 
@@ -139,4 +139,3 @@ Improved overall platform stability and performance.
 ### 📚 WeLearnin
 
 In progress. More soon.
-
