@@ -39,6 +39,8 @@ I have a solid background in front-end development, including:
 
 I also have extensive experience on the back end:
 
+    Languages: Basic experience in python, go and rust
+
     Frameworks: Express.js
 
     Databases: PostgreSQL, Redis, MongoDB, MySQL, SQL
