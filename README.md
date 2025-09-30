@@ -48,10 +48,12 @@ I also have extensive experience on the back end:
     Cloud and Hosting: AWS
 
     
-⚒️ What I'm Working On
+# ⚒️ What I'm Working On
 
-I'm currently working on WeLearnin.com as a side project.
-It’s a gamified platform for schools to improve the experience of both teachers and students, built with:
+I'm currently working on [WeLearnin](https://WeLearnin.com) as a side project.
+It’s a gamified platform for schools to improve the experience of both teachers and students. It organizes data in windows like folder explorer and allows for upload of learning materials, creation of tasks, task collections as well as events like exams and assignments which are then used to calculate ELO rating system of each individual subject. It incorporates actionable gamification mechanics to elevate users experience and motivate them to become better versions of themselves. 
+
+built with:
 
 **Stack**: Typescript, Zod, Sveltekit, SCSS, MongoDB, Redis, LLM utils, Web push notifications, Meilisearch
 
