@@ -51,47 +51,35 @@ I also have extensive experience on the back end:
 ⚒️ What I'm Working On
 
 I'm currently working on WeLearnin.com as a side project.
-It’s a gamified platform for schools to improve the experience of both teachers and students, built with SvelteKit.
+It’s a gamified platform for schools to improve the experience of both teachers and students, built with:
 
-I hope to contribute to improving the outdated education system.
+**Stack**: Typescript, Zod, Sveltekit, SCSS, MongoDB, Redis, LLM utils, Web push notifications, Meilisearch
+
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marcin-moldrzyk-332505214/) if you'd like to know more.
-
 
 # 🏆 My past work:
 
-### 🧩 VSCode Extension
+### 💎 [ShardSpace](https://launch.shardspace.app/) – Senior Full-Stack Developer
 
-My first ever coding project. I created a simple VSCode extension to find unused Entitas components in a game dev framework used for in-house operations.
+Integrated multiple dApps into ShardSpace.
+Users can manage liquidity, purchase Radix domains, list NFTs, stake, and swap assets.
+Improved overall platform stability and performance.
 
-**Stack**: JavaScript, VSCode API
+**Stack**: TypeScript, Zod, SvelteKit, Radix, Tailwind CSS, APIs, PostgreSQL
 
-### 🎮 Gaming for Good – Developer
+### 🚀 [RadQuest](https://radquest.io/home/basic) – Senior Full-Stack Developer
 
-Maintained the codebase for a donation platform for streamers (mainly on Twitch).
-Added support for PayPal, BTC, and ETH donations, alert features, payment widgets, and microservices for alert processing.
+Contributed to a gamified onboarding experience for the Radix ecosystem.
+Delivered onboarding quests that integrated directly with the blockchain.
+Worked on both frontend and backend, including component development and backend microservices for rewards.
 
-**Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
+**Stack**: TypeScript, Redis, AWS, Radix, SvelteKit, Docker, SCSS, WebSockets, APIs, Jest, PostgreSQL
 
-### 💱 [DubiEx](https://www.dubiex.com/PRPS/USDC) – Mid Developer
+### 🔍 [Cielo Chrome Extension](https://chromewebstore.google.com/detail/cielo/nbmknhhenedcdaodehlbpfanpmgkjaeg?hl=en)
 
-Maintained a decentralized exchange on Ethereum and led development of nft auction house
+Built an extension that injects a button into web pages, allowing users to quickly add wallets to their watchlists.
 
-**Stack**: TypeScript, React, MobX, Kubernetes, SQL, CSS, styled-components, WebSockets, APIs, GraphQL, ethers.js, web3js, wallet-connect
-
-### 🛒 [MobileMinigames Web3 Store](https://shop.mobileminigames.com/) – Team Lead
-
-Integrated Ethereum smart contracts to build a Web3 store for a mobile game.
-The flow included wallet signing, cart logic, transaction submission, and feedback handling.
-
-**Stack**: Ethers.js, GraphQL, styled-components, CSS, Storybook, TypeScript, React, Relay, Jest, Golang, Docker, AWS
-
-### ⚙️ Automation Tools
-
-Built automation systems integrating Trello, GitLab, Git, and Elasticsearch via APIs and webhooks.
-These tools streamlined DevOps workflows with automatic PR creation, card updates, and alerts for developers and QA.
-
-**Stack**: TypeScript, MongoDB, Elasticsearch, AWS, Express.js, Git, Trello, GitLab & GitHub APIs, Jest
-
+**Stack**: TypeScript, Puppeteer
 
 ### 👁️ [Cielo Finance](https://app.cielo.finance/feed) – Mid/Senior Frontend Developer
 
@@ -113,31 +101,35 @@ I was involved in architecture, code standards, and product strategy, and I led 
 
 **Stack**: React, Next.js, APIs, WalletConnect, XState, styled-components, TypeScript, Tailwind CSS, Storybook, Docker
 
+### 🛒 [MobileMinigames Web3 Store](https://shop.mobileminigames.com/) – Team Lead
 
-### 🔍 [Cielo Chrome Extension](https://chromewebstore.google.com/detail/cielo/nbmknhhenedcdaodehlbpfanpmgkjaeg?hl=en)
+Integrated Ethereum smart contracts to build a Web3 store for a mobile game.
+The flow included wallet signing, cart logic, transaction submission, and feedback handling.
 
-Built an extension that injects a button into web pages, allowing users to quickly add wallets to their watchlists.
+**Stack**: Ethers.js, GraphQL, styled-components, CSS, Storybook, TypeScript, React, Relay, Jest, Golang, Docker, AWS
 
-**Stack**: TypeScript, Puppeteer
+### ⚙️ Automation Tools
 
+Built automation systems integrating Trello, GitLab, Git, and Elasticsearch via APIs and webhooks.
+These tools streamlined DevOps workflows with automatic PR creation, card updates, and alerts for developers and QA.
 
-### 🚀 [RadQuest](https://radquest.io/home/basic) – Senior Full-Stack Developer
+**Stack**: TypeScript, MongoDB, Elasticsearch, AWS, Express.js, Git, Trello, GitLab & GitHub APIs, Jest
 
-Contributed to a gamified onboarding experience for the Radix ecosystem.
-Delivered onboarding quests that integrated directly with the blockchain.
-Worked on both frontend and backend, including component development and backend microservices for rewards.
+### 💱 [DubiEx](https://www.dubiex.com/PRPS/USDC) – Mid Developer
 
-**Stack**: TypeScript, Redis, AWS, Radix, SvelteKit, Docker, SCSS, WebSockets, APIs, Jest, PostgreSQL
+Maintained a decentralized exchange on Ethereum and led development of nft auction house
 
-### 💎 [ShardSpace](https://launch.shardspace.app/) – Senior Full-Stack Developer
+**Stack**: TypeScript, React, MobX, Kubernetes, SQL, CSS, styled-components, WebSockets, APIs, GraphQL, ethers.js, web3js, wallet-connect
 
-Integrated multiple dApps into ShardSpace.
-Users can manage liquidity, purchase Radix domains, list NFTs, stake, and swap assets.
-Improved overall platform stability and performance.
+### 🎮 Gaming for Good – Developer
 
-**Stack**: TypeScript, Zod, SvelteKit, Radix, Tailwind CSS, APIs, PostgreSQL
+Maintained the codebase for a donation platform for streamers (mainly on Twitch).
+Added support for PayPal, BTC, and ETH donations, alert features, payment widgets, and microservices for alert processing.
 
+**Stack**: TypeScript, Redux, React, jQuery, SQL, CSS, styled-components, WebSockets, APIs, Express.js, MongoDB, Handlebars, Jest, Puppeteer
 
-### 📚 WeLearnin
+### 🧩 VSCode Extension
 
-In progress. More soon.
+My first ever coding project. I created a simple VSCode extension to find unused Entitas components in a game dev framework used for in-house operations.
+
+**Stack**: JavaScript, VSCode API
