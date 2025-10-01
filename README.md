@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ArinCantCode
 
-# Open for work :)
+# Open to work :)
 
 ## 📓 About Me
 I'm a full-stack JavaScript developer specializing in Web3 and consumer-facing web apps.
