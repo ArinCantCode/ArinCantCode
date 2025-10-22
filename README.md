@@ -57,7 +57,7 @@ It’s a gamified platform for schools to improve the experience of both teacher
 
 built with:
 
-**Stack**: Typescript, Zod, Sveltekit, SCSS, MongoDB, Redis, LLM utils, Web push notifications, Meilisearch
+**Stack**: Typescript, Zod, Sveltekit, SCSS, MongoDB, Redis, LLM utils, Web push notifications, Meilisearch, Cesium, Websockets
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marcin-moldrzyk-332505214/) if you'd like to know more.
 
