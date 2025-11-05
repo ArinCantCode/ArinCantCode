@@ -63,6 +63,19 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marcin-moldrzyk
 
 # 🏆 My past work:
 
+### 🚀 LineaXP 
+
+Built simple dashboard for claiming messages on the Linea network with a nostalgic Windows XP-style UI. Developed a full-stack application enabling users to search, track, and claim messages across L1 and L2 networks. Implemented real-time blockchain event indexing, Web3 wallet integration, and a complete claiming workflow with transaction management. Built the frontend with a retro-inspired design system and developed backend services for event synchronization and claim history tracking.
+
+**Key Features:**
+- Message search and status tracking across L1 ↔ L2
+- One-click message claiming with transaction management
+- Real-time blockchain event indexing service
+- Claim history with persistent storage
+- Windows XP-inspired UI with dark/light theme support
+
+**Stack:** TypeScript, Next.js, React, Tailwind CSS, Wagmi, Web3Modal, Prisma, PostgreSQL, Docker, Linea SDK, Ethers.js, Radix UI
+
 ### 💎 [ShardSpace](https://launch.shardspace.app/) – Senior Full-Stack Developer
 
 Integrated multiple dApps into ShardSpace.
