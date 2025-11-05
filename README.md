@@ -63,7 +63,7 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marcin-moldrzyk
 
 # 🏆 My past work:
 
-### 🚀 LineaXP 
+### 🪟 LineaXP 
 
 Built simple dashboard for claiming messages on the Linea network with a nostalgic Windows XP-style UI. Developed a full-stack application enabling users to search, track, and claim messages across L1 and L2 networks. Implemented real-time blockchain event indexing, Web3 wallet integration, and a complete claiming workflow with transaction management. Built the frontend with a retro-inspired design system and developed backend services for event synchronization and claim history tracking.
 
