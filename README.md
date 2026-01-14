@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @ArinCantCode
 
-# Open to work :)
-
 ## 📓 About Me
 I'm a full-stack JavaScript developer specializing in Web3 and consumer-facing web apps.
 I have nearly a decade of experience in software development, combined with crypto degen experience.
