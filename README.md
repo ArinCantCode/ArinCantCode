@@ -26,9 +26,9 @@ My experience spans multiple blockchain technologies and tools:
 
 I have a solid background in front-end development, including:
 
-    Languages: JavaScript, TypeScript, HTML, CSS
+    Languages: JavaScript, TypeScript
 
-    Frameworks and Libraries: Next.js, React.js, SvelteKit
+    Frameworks and Libraries: Next.js, React.js, Svelte
 
     Styling Tools: Tailwind, Sass, styled-components, Bootstrap
 
@@ -41,11 +41,11 @@ I also have extensive experience on the back end:
 
     Languages: Basic experience in python, go and rust
 
-    Frameworks: Express.js
+    Frameworks: Express.js, NestJS, Next.js
 
-    Databases: PostgreSQL, Redis, MongoDB, MySQL, SQL
+    Databases: PostgreSQL, Redis, MongoDB, MySQL, SQL 
 
-    Cloud and Hosting: AWS
+    Cloud and Hosting: AWS, GCP, DigitalOcean, Vercel
 
     
 # ⚒️ What I'm Working On
