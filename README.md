@@ -61,7 +61,27 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marcin-moldrzyk
 
 # 🏆 My past work:
 
-### 🪟  [LineaXP](https://lineaXP.app/) - Full-stack developer
+💳 XPcard – Full-Stack Engineer
+(Completed in just 3 weeks)
+
+Worked on a fintech platform integrating Advanzia Bank’s credit card system.
+Focused on improving conversion tracking, retention, and user communication flows by developing systems for automation and analytics.
+
+Contributions:
+
+Implemented retargeting services using SMS, email, and cron jobs with Twilio and SendGrid
+
+Added a magic-link flow to fix drop-off caused by Instagram’s in-app browser during KYC
+
+Audited user journey analytics from ad click → card application → approval
+
+Built a queue and watch system to accurately track user-bank status changes and maintain history for future optimization
+
+**Roughly doubled retention and stabilized it from 6–13% to 10–14%**
+
+Stack: React, Redux, Node.js, NestJS, Vercel, Twilio, SendGrid, MongoDB
+
+### 🪟  LineaXP Full-stack developer
 
 Built simple dashboard for claiming messages on the Linea network with a nostalgic Windows XP-style UI. Full-stack application enabling users to search, track, and claim messages across L1 and L2 networks. Implemented real-time blockchain event indexing, Web3 wallet integration, and a complete claiming workflow with transaction management. Built the frontend with a retro-inspired design system and developed backend services for event synchronization and claim history tracking.
 
